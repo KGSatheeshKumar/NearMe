@@ -68,8 +68,11 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
+![out1](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/bdc20286-ff1e-49b5-8678-e4054a62db2c)
 
+![chennai output](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/bdee1e44-f8e5-4e3f-8d80-b7b2c6102c58)
 
+![srirangam output](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/c107df4f-4f11-4239-91dd-350cf1f99dbb)
 
 
 
