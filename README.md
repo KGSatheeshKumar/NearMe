@@ -70,9 +70,9 @@ Execute the programs and publish them.
 
 ![out1](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/bdc20286-ff1e-49b5-8678-e4054a62db2c)
 
-![chennai output](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/bdee1e44-f8e5-4e3f-8d80-b7b2c6102c58)
+![chennai output](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/136a603c-2c41-4711-a959-9a32d5c534ef)
 
-![srirangam output](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/c107df4f-4f11-4239-91dd-350cf1f99dbb)
+![srirangam output](https://github.com/KGSatheeshKumar/NearMe/assets/128453421/5b9b6f32-d638-4abc-a63a-abc62f8ac513)
 
 
 
